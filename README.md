@@ -89,8 +89,6 @@ Plots:
 
 ## References
 
-A continuació, les referències usades per aquest treball:
-
 [ANTLR in Python](https://gebakx.github.io/Python3/compiladors.html#1)\
 [Pandas docs](https://pandas.pydata.org/pandas-docs/stable/index.html)\
 [Streamlit docs](https://docs.streamlit.io)\
